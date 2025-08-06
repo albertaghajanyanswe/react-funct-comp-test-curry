@@ -14,8 +14,6 @@ function App() {
 
   const MyForm = MyComponent({ formName: "Login form", submitBtnTitle: "Login" });
 
-  console.log('1')
-  console.log('2')
   return (
     <div>
       <MyForm
